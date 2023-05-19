@@ -1,0 +1,27 @@
+div{
+    background-color:rgba(119, 101, 101, 0.616);
+}
+form{
+background-color: rgb(139, 131, 131);
+
+border: 1px solid;
+padding: 20px;
+display: inline-table;
+}
+button{
+    border-radius: 10px;
+    border-style:dotted;
+}
+img{
+    border-radius: 150px;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 80px;
+    position: absolute;
+    left: 1000px;
+    bottom: 120px;
+}
+body{
+    background-color:rgb(139, 131, 131);
+    ;
+}
