@@ -25,3 +25,13 @@ body{
     background-color:rgb(139, 131, 131);
     ;
 }
+h1{
+    border: 6px solid;
+}
+@media screen and (max-width:680px) {
+    .go{
+        display: flex;
+        flex-direction: column;
+        background-color: blue;
+    }
+}
